@@ -14,3 +14,6 @@ function findExistOrNot(arr){
 findExistOrNot(a) // true
 findExistOrNot(b) // true
 findExistOrNot(c) // false
+
+// what is the vs code?
+
